@@ -3,10 +3,10 @@
 ## Website: https://edmontontowtruck.ca/
 ## Call: (780) 435-2065
 
-Address: 8882 170 Street
-City:	Edmonton 
-Province:	Alberta
-Post / Zip: T5T 4M2
+# Address: 8882 170 Street
+# City:	Edmonton 
+# Province:	Alberta
+# Post / Zip: T5T 4M2
 
 At Edmonton Tow Truck, we provide trusted day and night towing and 24/7 roadside help across Edmonton, Alberta. 
 From expert tow truck clearance services to reliable flatbed and recovery solutions, we handle every situation with care. 
