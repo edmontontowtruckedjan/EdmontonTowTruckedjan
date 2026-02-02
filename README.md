@@ -1,9 +1,9 @@
 ## Edmonton Tow Truck
 
 ## Website: https://edmontontowtruck.ca/
-## Call:(780) 435-2065
+## Call: (780) 435-2065
 
-Address :	8882 170 Street
+Address: 8882 170 Street
 City:	Edmonton 
 Province:	Alberta
 Post / Zip: T5T 4M2
